@@ -10,4 +10,3 @@ npm install
 ```
 node app.js
 ```
-hehe
